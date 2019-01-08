@@ -1,0 +1,18 @@
+{
+    "name": "CitaIMQ",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:7089/api/messages",
+            "id": "774c9b10-1009-11e9-a8a3-6989d5ed84f8",
+            "name": "http://localhost:7089/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\bialguos\\source\\repos\\CitaIMQBot\\CitaIMQBot\\CitaIMQ.bot"
+}
